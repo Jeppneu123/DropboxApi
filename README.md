@@ -30,6 +30,7 @@ Status kode:
 <img width="940" alt="Skærmbillede 2023-09-06 kl  09 41 34" src="https://github.com/Jeppneu123/DropboxApi/assets/111861067/af2cc75d-c535-4207-ac82-0393b23bcecb">
 
 OPGAVE 4
+
 Mit Http verb er POST og jeg har brugt dette URL: https://content.dropboxapi.com/2/files/upload
 
 Inde under Body så skal man vælge binary, og uploade den fil man gerne vil have sendt med. Også under headers skal man skrive "Dropbox-Api-Arg" i key'en og {"path": "/testMappe/squares.png","mode": {".tag": "add"},"autorename": true} i value'en. Her vælger hvad den skal hedde inde under den mappe du har. 
@@ -158,7 +159,6 @@ Her rykker jeg alle .txt filerne fra testmappe til Obligatorisk_Opgave.
 
 Opgave 9
 
-
 Body request:
 
 Mit Http verb er POST og jeg har brugt dette URL: https://api.dropboxapi.com/2/files/copy_v2
@@ -175,7 +175,8 @@ Her tager jeg fat i en fil i /testmappe og kopierer den og rykker den kopi ind i
 
 
 Opgave 10
-Min HTML og javascript er pushed
+
+Mit HTML og javascript er pushed
 
 Opgave 11
 
