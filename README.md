@@ -31,6 +31,7 @@ Status kode:
 
 OPGAVE 4
 
+
 Mit Http verb er POST og jeg har brugt dette URL: https://content.dropboxapi.com/2/files/upload
 
 Inde under Body så skal man vælge binary, og uploade den fil man gerne vil have sendt med. Også under headers skal man skrive "Dropbox-Api-Arg" i key'en og {"path": "/testMappe/squares.png","mode": {".tag": "add"},"autorename": true} i value'en. Her vælger hvad den skal hedde inde under den mappe du har. 
