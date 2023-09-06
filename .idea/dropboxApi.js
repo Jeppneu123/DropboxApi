@@ -15,7 +15,7 @@ async function fetchFilesAndFolders() {
                 "Content-Type": "application/json"
             },
             body: JSON.stringify({
-                path: "/Obligatorisk_Opgave/testMappe",
+                path: "/Obligatorisk_Opgave/testmappe",
                 recursive: false,
                 include_media_info: false,
                 include_deleted: false,
