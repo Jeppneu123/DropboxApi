@@ -174,5 +174,15 @@ Mit Http verb er POST og jeg har brugt dette URL: https://api.dropboxapi.com/2/f
 Her tager jeg fat i en fil i /testmappe og kopierer den og rykker den kopi ind i /Obligatorisk_Opgave
 
 
-Opgave 10 
+Opgave 10
+Min HTML og javascript er pushed
+
+Opgave 11
+
+Dropbox API følger i store træk REST-principperne:
+
+API'et bruger standard HTTP-metoder og statuskoder. Dropbox API er Stateless, hvor hver anmodning indeholder alle nødvendige oplysninger.
+Der er en klar adskillelse mellem klienten og serveren, hvor klienten styrer brugergrænsefladen og serveren håndterer datastyring. Der er muligheder for forbedring, men dejlig at sidde og udvikle i.
+
+
 
